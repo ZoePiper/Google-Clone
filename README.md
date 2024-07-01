@@ -1,6 +1,6 @@
 # 🔐 Google Clone 🔐
 
-![Google Clone](2024-07-01 20_43_58-Let's build Google!.png)
+![Google Clone](https://github.com/ZoePiper/Google-Clone/blob/main/2024-07-01%2020_43_58-Let's%20build%20Google!.png?raw=true))
 
 Welcome to the Google Clone! Need a search app? 💪💻
 
