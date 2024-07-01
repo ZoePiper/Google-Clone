@@ -11,7 +11,7 @@ Welcome to the Google Clone! Need a search app? 💪💻
 
 ## 🚀 Check it Out
 
-[Click Here](https://get-new-password.netlify.app/)
+[Click Here](https://googleclone-cp3o.netlify.app)
 
 ---
 
