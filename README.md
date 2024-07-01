@@ -16,3 +16,6 @@ Welcome to the Google Clone! Need a search app? 💪💻
 ---
 
 Thanks for checking out the Google Clone! I hope you have as much fun using it as I did making it. Happy searching! 😎🔐
+
+Date: 1-7-24
+Bron: Scrimba
