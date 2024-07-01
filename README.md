@@ -1,6 +1,6 @@
 # 🔐 Google Clone 🔐
 
-![Password Generator](images/Password-Generator.png)
+![Google Clone](2024-07-01 20_43_58-Let's build Google!.png)
 
 Welcome to the Google Clone! Need a search app? 💪💻
 
